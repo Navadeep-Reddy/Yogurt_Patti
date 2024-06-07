@@ -1,0 +1,11 @@
+block,house,BHK,occupancy status,owner name ,phone number,maintenance status
+1,1,2,occupied,swetha,9898007699,paid
+1,2,2,occupied,tarun,9008800771,paid
+1,3,2,vacant,sruthi,9988007766,unpaid
+1,4,3,occupied,tanusha,8899006622,paid
+1,5,3,occupied,purushothaman,8989112207,paid
+2,1,2,occupied,yaazhini,7899870987,paid
+2,2,2,vacant,farmaan,9008871125,unpaid
+2,3,2,occupied,navadeep,9006688995,paid
+2,4,3,occupied,vihashini,8505050801,paid
+2,5,3,vacant,tamil,9700346010,unpaid
